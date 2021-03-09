@@ -1,2 +1,2 @@
-# ifrs-heapsort
-Repository for implementation HeapSort with Java and Maven.
+# heap sort
+Heap Sort Example using Java.
